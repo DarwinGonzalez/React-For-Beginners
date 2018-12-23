@@ -1,5 +1,4 @@
 import React from "react";
-import { format } from "url";
 
 class StorePicker extends React.Component {
     render() {
@@ -10,7 +9,7 @@ class StorePicker extends React.Component {
             <input type="text" required placeholder="Store name" />
             <button type="submit">Visit Store </button>
         </form>
-        )
+        );
     }
 }
 export default StorePicker;
