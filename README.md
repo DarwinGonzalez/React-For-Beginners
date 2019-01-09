@@ -1,2 +1,2 @@
 # React-For-Beginners
-Wesbos React-For-Beginners course ([link](https://reactforbeginners.com/))
+React-For-Beginners course ([link](https://reactforbeginners.com/)) by Wes Bos.
